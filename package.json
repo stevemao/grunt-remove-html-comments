@@ -1,6 +1,6 @@
 {
   "name": "grunt-remove-html-comments",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Remove comments in html",
   "license": "MIT",
   "repository": "stevemao/grunt-remove-html-comments",
