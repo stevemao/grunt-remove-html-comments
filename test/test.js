@@ -22,7 +22,7 @@ var join = require('path').join;
     test.ifError(value)
 */
 
-exports.conventionalChangelog = {
+exports.removeHtmlComments = {
   setUp: function(done) {
     // setup here if necessary
     done();
